@@ -1,3 +1,6 @@
+https://github.com/MoradAlkhatib/drf-api/pull/1
+
+
 Tasks and Requirements
 Rebuild a custom version of Blog API demo project from scratch.
 Replace Blog and Post with your own application and model.
